@@ -1,0 +1,78 @@
+
+.Fondo {
+    background-image: url(/images/banner.jpg);
+  }
+  
+  .Titulo_Section1 {
+      color: white;
+      font-size: 54px;
+      margin-top: 200px;
+  }
+  
+  .textos_blancos1 {
+      color: white;
+      font-size: 24px;
+  }
+  
+  .section1 {
+      height: 700px;
+  }
+  
+  .color_links {
+      color: #555F66;
+  }
+  
+  .section2 {
+      height: 600px;
+  }
+  
+  .section3 {
+      background-color: #192024;
+      color: white;
+  }
+  
+
+  .title.acomodo{
+    
+    margin-left: 10px;
+    font-size: 100%;
+  }
+  
+  .button.primero{
+    border-color: white;
+    margin-right: 10px;
+    margin-top: 6px;
+     background-color: #629DD1; 
+     border-color: #629DD1;
+  }
+
+    .button.segundo{
+        background-color: #629DD1; 
+        border-color: #629DD1; 
+        width: 200px; 
+        font-size: 14px;
+    }
+
+    .column.primera{
+        height: 250px; 
+	width: 700px; 
+	border: solid #E9EEF0; 
+	border-width: 4px;
+	margin-left: 450px;
+    }
+    .column.segunda{
+        height: 250px; 
+        width: 700px; 
+        border: solid #E9EEF0; 
+        border-width: 4px;
+        margin-left: 10px;
+    }
+    .column.tercera{
+        height: 250px; 
+        width: 700px; 
+        border: solid #E9EEF0; 
+        border-width: 4px;
+        margin-left: 10px;
+        margin-right: 450px;
+    }
+  
